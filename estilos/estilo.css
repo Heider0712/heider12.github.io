@@ -1,0 +1,74 @@
+/* 
+nav{
+
+height: 50px;
+margin-top: 40px;
+padding-top: 1000;
+margin-left: 1px;
+
+
+} */
+html{}
+ .indice{ 
+     display: inline-block;
+     margin: 0vw 0vw;
+
+}
+
+
+.letra{color: rgb(3, 117, 112);
+     padding-left: 180px;
+     text-decoration: none;
+     font-family: cursive;}
+.letra2{
+     color: rgb(3, 117, 112);
+     padding-left: 200px;
+     text-decoration: none;
+     font-family: cursive;}
+.letra3{
+     color: rgba(3, 117,112);
+     padding-left: 210px;
+     text-decoration: none;
+     font-family: cursive;
+
+}
+img{
+     padding-left: 200px;
+
+}
+.ti{
+     
+     border: 5px solid rgb(3, 117, 112);
+     margin: 60px;
+     padding-left: 450px;
+     font-family: cursive;
+     
+}
+.sy{
+     margin-left: 350px;
+     padding: 45px;
+     border-color: aqua;
+     font-family: cursive;
+     color: rgba(3, 117, 112);
+     font-size: 30px;
+}
+span{
+     padding: 50px;
+}
+.nu{ 
+
+     border: 5px; color: black;
+     margin: 30px;
+     padding-left: 500px;
+     font-family: cursive;
+     font-size: 2em;
+color: rgb(3, 117, 112);
+
+}.h3{
+     padding-left: 500px;
+     font-family: cursive;
+     color: brown;
+}
+
+
+

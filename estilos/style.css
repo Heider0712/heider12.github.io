@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(198, 218, 111);
+}
+
+    
+   
+    
+    
+
+/* estilos por clase*/
+#unico{
+    text-align: center;
+    font-size: 40px;
+    color: rgb(9, 182, 182);
+    font-family: cursive;
+}
+#n1{
+    color: aqua;
+}
