@@ -1,46 +1,44 @@
-/*
-nav{
-
-height: 50px;
-margin-top: 40px;
-padding-top: 1000;
-margin-left: 1px;
-
-
-} */
 html{
-     background-image: url(/imagenes/fondo.jpg);}
- .indice{
+     background-image: url(/imagenes/fondo2.jpg);}
+body{
+     background-image: url(/imagenes/fondo2.jpg);
+}
+ .indice{ 
      display: inline-block;
      margin: 0vw 0vw;
 }
 
 
 
-.letra{color: rgb(3, 117, 112);
+.letra{color: antiquewhite;
      padding-left: 410px;
      text-decoration: none;
-     font-family: cursive;}
+     font-family: cursive;
+     font-size: 20px;
+}
 .letra2{
-     color: rgb(3, 117, 112);
-     padding-left: 430px;
-     text-decoration: none;
-     font-family: cursive;}
-.letra3{
-     color: rgb(3, 117,112);
-     padding-left: 430px;
+     color: antiquewhite;
+     padding-left: 420px;
      text-decoration: none;
      font-family: cursive;
+     font-size: 20px;
+}
+.letra3{
+     color: antiquewhite;
+     padding-left: 410px;
+     text-decoration: none;
+     font-family: cursive;
+     font-size: 20px;
 }
 .letra4{
-       color: black;
+       color: antiquewhite;
        padding-left: 110px;
        padding-right:70px;
 
        text-decoration: none;
        font-family: cursive;
        font-size: 18px;
-       text-align: center;
+       text-align: justify;
 }
 img{
      padding-left: 400px;
@@ -51,11 +49,14 @@ img{
 }
 .ti{
      
-   
+    color: antiquewhite;
      margin: 60px;
      padding-left: 410px;
      font-family: cursive;
-     
+     float: top;
+     list-style: none;
+     background-color: rgba(100, 100, 100, 0.705);
+     margin: 0vw 0vw 0vw 0vm;
 }
 .sy{
      margin-left: 350px;
@@ -68,14 +69,18 @@ img{
 span{
      padding: 50px;
 }
-.nu{
+.nu{ 
 
-     border: 5px; color: black;
+     border: 5px; color: antiquewhite;
      margin: 30px;
      padding-left: 450px;
      font-family: cursive;
      font-size: 2em;
-color: rgb(8, 66, 151);
+     float: top;
+     list-style: none;
+     background-color: rgba(100, 100, 100, 0.705);
+     margin: 0vw 0vw 0vw 0vm;
+color: rgb(226, 231, 238);
 
 }.h3{
      padding-left: 500px;
@@ -99,30 +104,65 @@ color: rgb(8, 66, 151);
 #n1{
     color: aqua;
 }
-#menu{
+#menu{ 
      float: top;
      text-align: center;
      list-style: none;
-     background-color: rgba(100, 100, 100, 0.1);
+     background-color: rgba(100, 100, 100, 0.705);
      margin: 0vw 0vw 0vw 0vm;
-}
+} 
 #menu li{display: inline-block;}
 #menu li a{
  display: block;
  padding: 0.1vw 2vw;
  text-decoration: none;
- color:rgb( 0,0,200)
-  -webkit-text-stroke: 0.03vw rgb(255,255, 255);
+ color:rgb( 226,210,178);
+  -webkit-text-stroke: 0.03vw rgb(211,114, 11);
  font-size: 2.5vw;
 }
 #menu li a:hover{
  color: rgb(200,0,0);
  background-color:rgba(0, 0, 0, 0.5);
 }
-#c1{
-     border: 5px; color: black;
-     margin: 30px;
-     padding-left: 400px;
+.c1{
+     border: 20px; color: black;
+     margin: 60px;
+     padding-left: 480px;
+     padding-right: 150px;
+
      font-family: cursive;
-     font-size: 2em;
-}
+     font-size: 30px;
+
+     color: rgb(226, 210, 178);
+     }
+     .m1{border: 5px; color: rgb(0, 0, 0);
+          margin: 30px;
+          padding-left: 200px;
+          font-family: cursive;
+          font-size: 2em;
+          float: top;
+          list-style: none;
+          background-color: rgba(100, 100, 100, 0.705);
+          margin: 0vw 0vw 0vw 0vm;
+
+     }
+     .letra6{color: antiquewhite;
+          padding-left: 400px;
+          font-family: cursive;
+          font-size: 20px;
+     }
+     .letra7{
+          color: antiquewhite;
+          padding-left: 30px;
+          float: top;
+          list-style: none;
+          background-color: rgba(100, 100, 100, 0.705);
+          margin: 0vw 0vw 0vw 0vm;
+     }
+     .m1{
+          color: antiquewhite;
+
+     }
+
+
+
